@@ -1,0 +1,40 @@
+.custom-dropdown{
+    display: none;
+    padding: 20px;
+    transition: all .2s;
+    opacity: 0;
+}
+
+.custom-options-button{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #333B52;
+    transition: all .2s;
+}
+
+.cd-button-active{
+    background-color: #333B52;
+    color: #FFF;
+    transition: all .2s;
+}
+
+.cd-active{
+    display: block;
+    opacity: 1;
+    transition: all .2s;
+}
+
+.custom-options-button:hover{
+    background-color: #333B52;
+    color: #FFF;
+    transition: all .2s;
+}
