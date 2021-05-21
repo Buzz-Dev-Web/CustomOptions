@@ -8,9 +8,9 @@ Módulo para Magento 2 responsável por adicionar as opções personalizadas dos
 
 ## Compatibilidade
 
-- [ x ] Testado em Magento 2.2.x
-- [ x ] Testado em Magento 2.3.x
-- [ x ] Testado em Magento 2.4.1
+- [x] Testado em Magento 2.2.x
+- [x] Testado em Magento 2.3.x
+- [x] Testado em Magento 2.4.1
 
 ## Manual de instalação:
 
